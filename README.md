@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [ https://www.frontendmentor.io/solutions/article-preview-javascript-ZcKVKamhXk]( https://www.frontendmentor.io/solutions/article-preview-javascript-ZcKVKamhXk)
 - Live Site URL: [ https://tortaruga.github.io/article-preview-project/](https://tortaruga.github.io/article-preview-project/)
 
 ### Built with
